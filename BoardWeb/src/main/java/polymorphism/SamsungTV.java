@@ -11,6 +11,6 @@ public class SamsungTV {
 		System.out.println("SamsungTV--소리올린다.");
 	}
 	public void volumeDown() {
-		System.out.println("SamsungTV--소리내린다.");
+		System.out.println("SamsungTV--소리내린다.ss");
 	}
 }
