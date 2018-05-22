@@ -5,7 +5,7 @@ public class LgTV {
 		System.out.println("LgTV--전원켠다.");
 	}
 	public void turnOff() {
-		System.out.println("LgTV--전원끈다.");
+		System.out.println("LgTV--전원끈다.LGLGLG");
 	}
 	public void soundUp() {
 		System.out.println("LgTV--소리올린다.");
