@@ -8,7 +8,7 @@ public class LgTV {
 		System.out.println("LgTV--전원끈다.LGLGLG");
 	}
 	public void soundUp() {
-		System.out.println("LgTV--소리올린다.");
+		System.out.println("LgTV--소리올린다.LGLGLG");
 	}
 	public void soundDown() {
 		System.out.println("LgTV--소리내린다.");
